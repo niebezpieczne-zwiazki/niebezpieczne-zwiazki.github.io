@@ -1,2 +1,2 @@
-# niebezpieczne-zwiazki.github.io
+# (nie)bezpieczne zwiazki 
 website
